@@ -11,4 +11,4 @@ This is the html basic assignment for Stutern
 
 ## Licence
 
-https://github.com/KakushaVenecia/Html-Exercise/blob/master/LICENCE/
+https://github.com/KakushaVenecia/Html-Assignment/blob/master/LICENCE
